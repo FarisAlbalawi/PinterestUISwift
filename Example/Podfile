@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'PinterestUISwift_Example' do
+  pod 'PinterestUISwift', :path => '../'
+
+  target 'PinterestUISwift_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
