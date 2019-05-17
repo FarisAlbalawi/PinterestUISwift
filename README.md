@@ -22,7 +22,7 @@ pod 'PinterestUISwift'
 
 ## Author
 
-farisalbalawi, xx-301@hotmail.com
+Faris Albalawi, developer.faris@gmail.com
 
 ## License
 

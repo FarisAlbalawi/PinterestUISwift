@@ -1,0 +1,16 @@
+PODS:
+  - PinterestUISwift (0.1.0)
+
+DEPENDENCIES:
+  - PinterestUISwift (from `../`)
+
+EXTERNAL SOURCES:
+  PinterestUISwift:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PinterestUISwift: 2abd63d9e92b66064d3dd24ba1cade1799df800a
+
+PODFILE CHECKSUM: 7da69defa3b3fe94d6a15cb4fa675488f152a4dd
+
+COCOAPODS: 1.6.2

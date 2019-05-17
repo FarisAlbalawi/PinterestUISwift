@@ -1,0 +1,22 @@
+{
+  "name": "PinterestUISwift",
+  "version": "0.1.0",
+  "summary": "A short description of PinterestUISwift.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/farisalbalawi/PinterestUISwift",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "farisalbalawi": "xx-301@hotmail.com"
+  },
+  "source": {
+    "git": "https://github.com/farisalbalawi/PinterestUISwift.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PinterestUISwift/Classes/**/*"
+}
