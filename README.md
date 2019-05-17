@@ -1,5 +1,6 @@
 # PinterestUISwift
 
+[![Language: Swift 5](https://img.shields.io/badge/language-swift%205-f48041.svg?style=flat)](https://developer.apple.com/swift)
 [![CI Status](https://img.shields.io/travis/farisalbalawi/PinterestUISwift.svg?style=flat)](https://travis-ci.org/farisalbalawi/PinterestUISwift)
 [![Version](https://img.shields.io/cocoapods/v/PinterestUISwift.svg?style=flat)](https://cocoapods.org/pods/PinterestUISwift)
 [![License](https://img.shields.io/cocoapods/l/PinterestUISwift.svg?style=flat)](https://cocoapods.org/pods/PinterestUISwift)
