@@ -6,6 +6,9 @@
 [![License: MIT](https://img.shields.io/cocoapods/l/PinterestUISwift.svg?style=flat)](https://cocoapods.org/pods/PinterestUISwift)
 [![Platform](https://img.shields.io/cocoapods/p/PinterestUISwift.svg?style=flat)](https://cocoapods.org/pods/PinterestUISwift)
 
+
+![SkinnyExemplaryAcornweevil-small](https://user-images.githubusercontent.com/18473439/57951109-2d8bdd80-78b7-11e9-9abc-502323121f4f.gif)
+
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
