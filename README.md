@@ -63,7 +63,7 @@ class ViewController: UIViewController, collectionViewFlowDataSource{
     }
 }
 ```
-## functions
+## Functions
 ### Height of the items at index path:
 ```swift
    func sizeOfItemAtIndexPath(at indexPath: IndexPath) -> CGFloat {
