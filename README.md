@@ -116,7 +116,8 @@ return 0
 
 ## Author
 
-Faris Albalawi, developer.faris@gmail.com
+Faris Albalawi,
+developer.faris@gmail.com
 
 ## License
 
