@@ -1,3 +1,5 @@
+
+
 # PinterestUISwift
 
 [![Language: Swift 5](https://img.shields.io/badge/language-swift%205-f48041.svg?style=flat)](https://developer.apple.com/swift)
@@ -21,6 +23,8 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+
+iOS 8.0 or later
 
 ## Installation
 
